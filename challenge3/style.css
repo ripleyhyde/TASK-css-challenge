@@ -1,5 +1,7 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
 }
 .head {
 }
